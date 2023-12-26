@@ -31,18 +31,18 @@
 <table>
 <tr align="center">
 <td align="center">
-<img src="./desiner/project-preview.png" height="180">
+<img src="./src/assets/capturas/project-preview.png" height="180">
 </td>
 <td align="center">
-<img src="./desiner/Desktop.png "height="180">
+<img src="./src/assets/capturas/Desktop.png"height="180">
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="./desiner/Mobile.png" height="200" >
+<img src="./src/assets/capturas/Mobile.png" height="200" >
 </td>
 <td align="center">
-<img src="./desiner/Desktop-body.png" height="200">
+<img src="./src/assets/capturas/Desktop-body.png" height="200">
 </td>
 </tr>
 

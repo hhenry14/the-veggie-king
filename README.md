@@ -39,10 +39,10 @@
 </tr>
 <tr>
 <td align="center">
-<img src="./desiner/Mobile.png" height="200" >
+<img src="./desiner/Mobile.png" height="180" >
 </td>
 <td align="center">
-<img src="./desiner/Desktop-body.png" height="200">
+<img src="./desiner/Desktop-body.png" height="180">
 </td>
 </tr>
 
